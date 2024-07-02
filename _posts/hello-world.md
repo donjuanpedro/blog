@@ -2,6 +2,7 @@
 title: "New beginnings"
 excerpt: ""
 coverImage: "/assets/blog/hello-world/fust.jpeg"
+coverImageCaption: "Fust - Genevieve"
 date: "2024-07-02"
 author:
   name: Walker Lyle
