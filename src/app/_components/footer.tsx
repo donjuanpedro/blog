@@ -11,10 +11,10 @@ export function Footer() {
           </h3>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
             <a
-              href="https://github.com/donjuanpedro"
+              href="https://walkerlyle.com/"
               className="mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
             >
-              Find me on GitHub
+              Return to walkerlyle.com
             </a>
           </div>
         </div>
