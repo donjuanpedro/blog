@@ -1,7 +1,7 @@
 ---
 title: "Returns and the rocks below"
 excerpt: ""
-coverImage: "/assets/blog/hello-world/fust.jpeg"
+coverImage: "/assets/blog/returns-and-the-rocks/fleet-foxes-boston.jpg"
 coverImageCaption: "Fleet Foxes - Live on Boston Harbor"
 date: "2024-07-03"
 author:
