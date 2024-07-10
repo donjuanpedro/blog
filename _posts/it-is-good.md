@@ -3,7 +3,7 @@ title: "It is good"
 excerpt: ""
 coverImage: "/assets/blog/it-is-good/sunset-rubdown.jpg"
 coverImageCaption: "Sunset Rubdown - Reappearing Rat"
-date: "2024-07-010"
+date: "2024-07-10"
 author:
   name: Walker Lyle
   picture: "/assets/blog/authors/walker.jpg"
